@@ -31,7 +31,7 @@ pip install geopandas
 
 ## Mapa Interativo
 
-<img src="imagens\Mapa_interativo_GIF.gif?raw=true" width="800px">
+<img src="docs\imagens\Mapa_interativo_GIF.gif?raw=true" width="800px">
 
 Acesse e teste o mapa interativo [aqui](https://jluciodev.github.io/woman_victims_v2/)
 
@@ -1634,7 +1634,7 @@ We thank you all for your valuable contributions to this project:
   <tr>
     <td align="center">
       <a href="#">
-        <img src="collaborators/joao.jpg" width="100px;" alt="joao"><br>
+        <img src="docs/collaborators/joao.jpg" width="100px;" alt="joao"><br>
         <sub>
           <b>João L. De Souza</b>
         </sub>
@@ -1642,7 +1642,7 @@ We thank you all for your valuable contributions to this project:
     </td>
     <td align="center">
       <a href="#">
-        <img src="collaborators/saulo.jpg" width="100px;alt="Sulo"><br>
+        <img src="docs/collaborators/saulo.jpg" width="100px;alt="Sulo"><br>
         <sub>
           <b>Saulo William</b>
         </sub>
@@ -1650,7 +1650,7 @@ We thank you all for your valuable contributions to this project:
     </td>
     <td align="center">
       <a href="#">
-        <img src="collaborators/alana.jpg" width="100px;" alt="Alana"><br>
+        <img src="docs/collaborators/alana.jpg" width="100px;" alt="Alana"><br>
         <sub>
           <b>Alana Miranda</b>
         </sub>
@@ -1658,7 +1658,7 @@ We thank you all for your valuable contributions to this project:
     </td>
     <td align="center">
       <a href="#">
-        <img src="collaborators/fernando.jpg" width="100px;alt="Seruffo"><br>
+        <img src="docs/collaborators/fernando.jpg" width="100px;alt="Seruffo"><br>
         <sub>
           <b>Fernando Costa</b>
         </sub>
@@ -1666,7 +1666,7 @@ We thank you all for your valuable contributions to this project:
     </td>
     <td align="center">
       <a href="#">
-        <img src="collaborators/seruffo.jpg" width="100px;alt="Seruffo"><br>
+        <img src="docs/collaborators/seruffo.jpg" width="100px;alt="Seruffo"><br>
         <sub>
           <b>Marcos Seruffo</b>
         </sub>
