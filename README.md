@@ -31,8 +31,9 @@ pip install geopandas
 
 ## Mapa Interativo
 
-![texto alternativo](Imagens\Mapa_interativo_GIF.gif)
+![](Imagens\Mapa_interativo_GIF.gif)
 
+<img src="Imagens\Mapa_interativo_GIF.gif?raw=true" width="400px">
 Acesse e teste o mapa interativo [aqui](https://jluciodev.github.io/woman_victims_v2/):
 
 
